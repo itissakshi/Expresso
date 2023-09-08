@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Borel&family=Itim&family=Tsukimi+Rounded:wght@500&display=swap');
+
+body {
+margin: 0;
+padding: 0;
+background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/lined-paper-2.png");
+background-attachment: fixed;
+background-size: cover;
+}
+.title.MuiTypography-h2{
+font-family: 'Tsukimi Rounded', sans-serif;
+    color:#ffffff;
+}
+.bigbox.MuiContainer-root{
+    margin-right: 0px;
+    margin-left: 0px;
+    max-width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.smallbox.MuiContainer-root{
+    margin-top: 0;
+    margin-bottom: 50px;
+    border-radius: 0 50px 0 50px;
+    padding-right: 60px;
+    padding-left: 60px;
+}
