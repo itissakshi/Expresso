@@ -14,6 +14,24 @@ Here's a brief overview of the tech stacks used for this project:
 This project uses the MERN Full Stack development framework. MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack.The MERN architecture allows us to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON.
 
 
+## ⚡Features with screenshots
+
+- **Create Posts**: Share your joyful moments by creating posts. You can attach photos, write a description, and choose tags to which the moment belongs to.
+
+![Screenshot 2023-09-01 031343](https://github.com/itissakshi/Expresso/assets/115742478/5de7f50c-94b2-415f-806b-eaf409beab5a) 
+
+- **Reactions**: Instead of comments, users can react to the posts with a variety of emotions, ranging from likes and hearts to excited emojis.
+
+![Screenshot 2023-09-01 032412](https://github.com/itissakshi/Expresso/assets/115742478/938ca62f-bd34-4b8a-a79e-b4609b4c4349)
+
+- **Update Posts**: Update your posts by clicking the three dots icon at the topmost corner of the card.
+
+![Screenshot 2023-09-01 032545](https://github.com/itissakshi/Expresso/assets/115742478/ac51deac-7bdf-4ead-bdaf-2a09d818d686)
+
+
+- **Delete Posts**: Delete the posts that you no longer want to see in your expresso-feed by just clicking the delete button icon.
+
+
 ## 🛠 Installation
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -45,38 +63,6 @@ To fix a bug or enhance an existing module, follow these steps:
   4. Commit your changes (```git commit -m 'New feature' ```)
   5. Push to the branch (```git push origin new-feature```)
   6. Open a Pull Request
-
-
-
-
-
-    
-## ⚡Features with screenshots
-
-- **Create Posts**: Share your joyful moments by creating posts. You can attach photos, write a description, and choose tags to which the moment belongs to.
-
-![Screenshot 2023-09-01 031343](https://github.com/itissakshi/Expresso/assets/115742478/5de7f50c-94b2-415f-806b-eaf409beab5a) 
-
-- **Reactions**: Instead of comments, users can react to the posts with a variety of emotions, ranging from likes and hearts to excited emojis.
-
-![Screenshot 2023-09-01 032412](https://github.com/itissakshi/Expresso/assets/115742478/938ca62f-bd34-4b8a-a79e-b4609b4c4349)
-
-- **Update Posts**: Update your posts by clicking the three dots icon at the topmost corner of the card.
-
-![Screenshot 2023-09-01 032545](https://github.com/itissakshi/Expresso/assets/115742478/ac51deac-7bdf-4ead-bdaf-2a09d818d686)
-
-
-- **Delete Posts**: Delete the posts that you no longer want to see in your expresso-feed by just clicking the delete button icon.
-
-
-
-
-## 🍰 Contributing
-
-Interested in contributing to this project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.Contributions are what make the open source community such an amazing place to learn, inspire, and create. 
-
-If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
-
 
 
 ## ✍️ Lessons Learned
